@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="PartyManagement">
+</Property><Property Name="Solution File" Value="D:\Projects\2. Vb.net Projects\Event Party Management M1\PartyManagement.sln">
+</Property><Property Name="User Options File" Value="D:\Projects\2. Vb.net Projects\Event Party Management M1\PartyManagement.suo">
+</Property><Property Name="Date" Value="05 July 2018">
+</Property><Property Name="Time" Value="16:50">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="PartyManagement.sln" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Event Party Management M1\Backup\PartyManagement.sln">
+</Event><Event ErrorLevel="0" Project="" Source="PartyManagement.suo" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Event Party Management M1\Backup\PartyManagement.suo">
+</Event><Event ErrorLevel="0" Project="PartyManagement" Source="PartyManagement.vbproj" Description="Project file successfully backed up as D:\Projects\2. Vb.net Projects\Event Party Management M1\Backup\PartyManagement.vbproj">
+</Event><Event ErrorLevel="0" Project="PartyManagement" Source="AdminLoginForm.Designer.vb" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Event Party Management M1\Backup\AdminLoginForm.Designer.vb">
+</Event><Event ErrorLevel="0" Project="PartyManagement" Source="AdminLoginForm.vb" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Event Party Management M1\Backup\AdminLoginForm.vb">
+</Event><Event ErrorLevel="0" Project="PartyManagement" Source="BookForm.Designer.vb" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Event Party Management M1\Backup\BookForm.Designer.vb">
+</Event><Event ErrorLevel="0" Project="PartyManagement" Source="BookForm.vb" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Event Party Management M1\Backup\BookForm.vb">
+</Event><Event ErrorLevel="0" Project="PartyManagement" Source="BookingListReport.designer.vb" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Event Party Management M1\Backup\BookingListReport.designer.vb">
+</Event><Event ErrorLevel="0" Project="PartyManagement" Source="BookingListReport.vb" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Event Party Management M1\Backup\BookingListReport.vb">
+</Event><Event ErrorLevel="0" Project="PartyManagement" Source="CustEventListForm.designer.vb" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Event Party Management M1\Backup\CustEventListForm.designer.vb">
+</Event><Event ErrorLevel="0" Project="PartyManagement" Source="CustEventListForm.vb" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Event Party Management M1\Backup\CustEventListForm.vb">
+</Event><Event ErrorLevel="0" Project="PartyManagement" Source="CustListReport.designer.vb" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Event Party Management M1\Backup\CustListReport.designer.vb">
+</Event><Event ErrorLevel="0" Project="PartyManagement" Source="CustListReport.vb" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Event Party Management M1\Backup\CustListReport.vb">
+</Event><Event ErrorLevel="0" Project="PartyManagement" Source="CustomerForm.Designer.vb" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Event Party Management M1\Backup\CustomerForm.Designer.vb">
+</Event><Event ErrorLevel="0" Project="PartyManagement" Source="CustomerForm.vb" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Event Party Management M1\Backup\CustomerForm.vb">
+</Event><Event ErrorLevel="0" Project="PartyManagement" Source="EventForm.Designer.vb" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Event Party Management M1\Backup\EventForm.Designer.vb">
+</Event><Event ErrorLevel="0" Project="PartyManagement" Source="EventForm.vb" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Event Party Management M1\Backup\EventForm.vb">
+</Event><Event ErrorLevel="0" Project="PartyManagement" Source="FlashScreen.Designer.vb" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Event Party Management M1\Backup\FlashScreen.Designer.vb">
+</Event><Event ErrorLevel="0" Project="PartyManagement" Source="FlashScreen.vb" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Event Party Management M1\Backup\FlashScreen.vb">
+</Event><Event ErrorLevel="0" Project="PartyManagement" Source="FoodForm.Designer.vb" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Event Party Management M1\Backup\FoodForm.Designer.vb">
+</Event><Event ErrorLevel="0" Project="PartyManagement" Source="FoodForm.vb" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Event Party Management M1\Backup\FoodForm.vb">
+</Event><Event ErrorLevel="0" Project="PartyManagement" Source="MDIParent1.Designer.vb" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Event Party Management M1\Backup\MDIParent1.Designer.vb">
+</Event><Event ErrorLevel="0" Project="PartyManagement" Source="MDIParent1.vb" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Event Party Management M1\Backup\MDIParent1.vb">
+</Event><Event ErrorLevel="0" Project="PartyManagement" Source="Module1.vb" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Event Party Management M1\Backup\Module1.vb">
+</Event><Event ErrorLevel="0" Project="PartyManagement" Source="My Project\AssemblyInfo.vb" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Event Party Management M1\Backup\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="PartyManagement" Source="My Project\Application.Designer.vb" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Event Party Management M1\Backup\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="PartyManagement" Source="My Project\Resources.Designer.vb" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Event Party Management M1\Backup\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="PartyManagement" Source="My Project\Settings.Designer.vb" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Event Party Management M1\Backup\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="PartyManagement" Source="PaymentForm.designer.vb" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Event Party Management M1\Backup\PaymentForm.designer.vb">
+</Event><Event ErrorLevel="0" Project="PartyManagement" Source="PaymentForm.vb" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Event Party Management M1\Backup\PaymentForm.vb">
+</Event><Event ErrorLevel="0" Project="PartyManagement" Source="PaymentListForm.designer.vb" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Event Party Management M1\Backup\PaymentListForm.designer.vb">
+</Event><Event ErrorLevel="0" Project="PartyManagement" Source="PaymentListForm.vb" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Event Party Management M1\Backup\PaymentListForm.vb">
+</Event><Event ErrorLevel="0" Project="PartyManagement" Source="ServicesForm.Designer.vb" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Event Party Management M1\Backup\ServicesForm.Designer.vb">
+</Event><Event ErrorLevel="0" Project="PartyManagement" Source="ServicesForm.vb" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Event Party Management M1\Backup\ServicesForm.vb">
+</Event><Event ErrorLevel="0" Project="PartyManagement" Source="VenueForm.Designer.vb" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Event Party Management M1\Backup\VenueForm.Designer.vb">
+</Event><Event ErrorLevel="0" Project="PartyManagement" Source="VenueForm.vb" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Event Party Management M1\Backup\VenueForm.vb">
+</Event><Event ErrorLevel="0" Project="PartyManagement" Source="VenueListReport.designer.vb" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Event Party Management M1\Backup\VenueListReport.designer.vb">
+</Event><Event ErrorLevel="0" Project="PartyManagement" Source="VenueListReport.vb" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Event Party Management M1\Backup\VenueListReport.vb">
+</Event><Event ErrorLevel="0" Project="PartyManagement" Source="My Project\Application.myapp" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Event Party Management M1\Backup\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="PartyManagement" Source="My Project\Settings.settings" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Event Party Management M1\Backup\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="PartyManagement" Source="AdminLoginForm.resx" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Event Party Management M1\Backup\AdminLoginForm.resx">
+</Event><Event ErrorLevel="0" Project="PartyManagement" Source="BookForm.resx" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Event Party Management M1\Backup\BookForm.resx">
+</Event><Event ErrorLevel="0" Project="PartyManagement" Source="BookingListReport.resx" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Event Party Management M1\Backup\BookingListReport.resx">
+</Event><Event ErrorLevel="0" Project="PartyManagement" Source="CustEventListForm.resx" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Event Party Management M1\Backup\CustEventListForm.resx">
+</Event><Event ErrorLevel="0" Project="PartyManagement" Source="CustListReport.resx" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Event Party Management M1\Backup\CustListReport.resx">
+</Event><Event ErrorLevel="0" Project="PartyManagement" Source="CustomerForm.resx" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Event Party Management M1\Backup\CustomerForm.resx">
+</Event><Event ErrorLevel="0" Project="PartyManagement" Source="EventForm.resx" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Event Party Management M1\Backup\EventForm.resx">
+</Event><Event ErrorLevel="0" Project="PartyManagement" Source="FlashScreen.resx" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Event Party Management M1\Backup\FlashScreen.resx">
+</Event><Event ErrorLevel="0" Project="PartyManagement" Source="FoodForm.resx" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Event Party Management M1\Backup\FoodForm.resx">
+</Event><Event ErrorLevel="0" Project="PartyManagement" Source="MDIParent1.resx" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Event Party Management M1\Backup\MDIParent1.resx">
+</Event><Event ErrorLevel="0" Project="PartyManagement" Source="My Project\Resources.resx" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Event Party Management M1\Backup\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="PartyManagement" Source="PaymentForm.resx" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Event Party Management M1\Backup\PaymentForm.resx">
+</Event><Event ErrorLevel="0" Project="PartyManagement" Source="PaymentListForm.resx" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Event Party Management M1\Backup\PaymentListForm.resx">
+</Event><Event ErrorLevel="0" Project="PartyManagement" Source="ServicesForm.resx" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Event Party Management M1\Backup\ServicesForm.resx">
+</Event><Event ErrorLevel="0" Project="PartyManagement" Source="VenueForm.resx" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Event Party Management M1\Backup\VenueForm.resx">
+</Event><Event ErrorLevel="0" Project="PartyManagement" Source="VenueListReport.resx" Description="File successfully backed up as D:\Projects\2. Vb.net Projects\Event Party Management M1\Backup\VenueListReport.resx">
+</Event><Event ErrorLevel="0" Project="PartyManagement" Source="PartyManagement.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="PartyManagement" Source="PartyManagement.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="PartyManagement.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="PartyManagement.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="PartyManagement" Source="PartyManagement.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

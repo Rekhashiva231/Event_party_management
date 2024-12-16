@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="PartyManagement">
+</Property><Property Name="Solution File" Value="C:\Documents and Settings\HP\Desktop\new arrivals\Event Party Management M1\PartyManagement.sln">
+</Property><Property Name="Date" Value="Friday, September 16, 2016">
+</Property><Property Name="Time" Value="16:51 PM">
+</Property></Properties><Event ErrorLevel="0" Project="PartyManagement" Source="PartyManagement.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="PartyManagement" Source="PartyManagement.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="PartyManagement.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="PartyManagement.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="PartyManagement" Source="PartyManagement.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
